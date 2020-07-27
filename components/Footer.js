@@ -1,8 +1,8 @@
-import { React, Fragment } from 'react';
+import React, { Fragment } from 'react';
 
 const Footer = () => {
     return(
-        <h1>Logo</h1>
+        <h1>Footer Logo</h1>
     ) 
 }
 
